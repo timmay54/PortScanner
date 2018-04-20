@@ -25,12 +25,30 @@ def termsOfAgreement():
 		print ("Terrific, lets get scanning!!")
 		wontBlameMe = True
 
+"""
+This will be the main settings page for types of pings, searches, and helpful tips depending on what type of network is being probed.
 
+"""
+def scanSettings():
+	defaultIP = 192.168.1.1
+	default   
+	default
+	default
+	default
 
 def startMenu():
 	print ("Welcome to Tim's Port Scanner. You must first accept\nthe terms and agreements before you begin")
 	termsOfAgreement()  #possible, if tOa not true, loop it until it is??
-	scanSettings()
+	
 
 
 initialization()
+
+
+
+
+"""
+
+lilly
+
+"""
